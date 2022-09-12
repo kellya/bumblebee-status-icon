@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="200mm"
-   height="200mm"
-   viewBox="0 0 200 200"
+   width="175.48047mm"
+   height="175mm"
+   viewBox="0 0 175.48047 175"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
@@ -27,8 +27,8 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="0.35355339"
-     inkscape:cx="271.529"
-     inkscape:cy="799.03066"
+     inkscape:cx="237.58788"
+     inkscape:cy="680.23672"
      inkscape:window-width="1920"
      inkscape:window-height="1035"
      inkscape:window-x="0"
@@ -37,7 +37,7 @@
      inkscape:current-layer="layer1"
      inkscape:lockguides="false">
     <sodipodi:guide
-       position="100.00113,10.883895"
+       position="95.451661,37.832888"
        orientation="1,0"
        id="guide1317"
        inkscape:locked="false" />
@@ -70,10 +70,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-27.804627,-55.231946)">
+     transform="translate(-32.354101,-70.680481)">
     <g
        id="g316"
-       transform="rotate(-30,127.80463,154.4295)">
+       transform="rotate(-30,138.5347,157.30461)">
       <path
          style="fill:#1a1a1a;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 102.95812,189.9762 24.88519,25.13542 25.11747,-25.00058 v 20.23808 l -25.11747,24.99662 -24.88519,-24.99662 z"
