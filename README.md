@@ -3,7 +3,7 @@
 Trying my hand at completing https://github.com/tobi-wan-kenobi/bumblebee-status/issues/639
 
 # sample
-![](img/bumblebee_status_rt.svg)
+![](img/bumblebee_status_rtl.svg)
 
 # concept
 
